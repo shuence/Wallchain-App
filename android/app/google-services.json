@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "902035571886",
+    "firebase_url": "https://wallchain-88368-default-rtdb.firebaseio.com",
+    "project_id": "wallchain-88368",
+    "storage_bucket": "wallchain-88368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902035571886:android:e6c18d58c74a58e7fcd93f",
+        "android_client_info": {
+          "package_name": "com.walchain.walchain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiuHvesrXEZCV19AJD1vIjPZKxIZ46-Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
