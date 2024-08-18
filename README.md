@@ -170,16 +170,18 @@ The future of Wall Chain is bright with opportunities for further innovation:
 - **Integration with IoT Devices:** Incorporating IoT sensors for real-time monitoring of trailer conditions and inventory.
 
 # Hi, We are InnovisionSquad
+
 ## 🤝 Contributors
+
 We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.
 
-| [Sanika Chavan ](https://linkedin.com/in/sanika-chavan-52457b236/)| [Shubham Pitekar](https://linkedin.com/in/shuence)| [Tabish](https://https://www.linkedin.com/in/tabish-khan-04a477154/)| [Mohammed Rehan](https://www.linkedin.com/in/mdrehan15/)|
-| ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/u/116996971?v=4"> | <img src="https://avatars.githubusercontent.com/u/65482186?v=4"> | <img src="https://i.postimg.cc/zvYf8bGj/image.jpg"> | <img src="https://i.postimg.cc/bvPLDLFc/image.jpg"> |
-| Project Manager| Flutter Developer| Firebase/PR | UI/UX Designer                      
+| [Sanika Chavan ](https://linkedin.com/in/sanika-chavan-52457b236/) | [Shubham Pitekar](https://linkedin.com/in/shuence) | [Tabish](https://www.linkedin.com/in/tabish-khan-04a477154/) | [Mohammed Rehan](https://www.linkedin.com/in/mdrehan15/) |
+| ----------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/116996971?v=4" style="width:150px; height:150px;"> | <img src="https://avatars.githubusercontent.com/u/65482186?v=4" style="width:150px; height:150px;"> | <img src="https://i.postimg.cc/W3BTgQD2/Whats-App-Image-2024-08-15-at-10-48-36-PM.jpg" style="width:150px; height:150px;"> | <img src="https://i.postimg.cc/bvPLDLFc/image.jpg" style="width:150px; height:150px;"> |
 
-![spoonshare](https://github.com/shuence/SpoonShare/assets/65482186/74dc488c-d378-47de-a384-a9bdac6142cc)
+## Happy Innovating 💯
 
+Made with love from [InnovsionSquad]() ❤️
 ## Happy Innovating 💯
 
 Made with love from [InnovsionSquad]() ❤️
