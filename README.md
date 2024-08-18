@@ -33,6 +33,98 @@ Introducing **WallChain**—an Enhanced Trailer Management System that combines 
 6. **AI-Powered Assistant 🤖**
    - **Description:** A GenAI-powered assistant delivers real-time insights and recommendations.
    - **Benefit:** Supports data-driven decision-making for route optimization and resource management.
+  
+<table style="width: 100%;">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://postimg.cc/8sGppvkR" width="120"/><br>
+      <b>Splash Screen</b><br>
+      Displays the Wall Chain logo upon app launch.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/onboarding.png" width="120"/><br>
+      <b>Onboarding Screen</b><br>
+      Allows users to create an account or log in.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/signup.png" width="120"/><br>
+      <b>Signup Screen</b><br>
+      Create an account manually or using Google credentials.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/signin.png" width="120"/><br>
+      <b>Signin Screen</b><br>
+      Log in via email or continue using Google credentials.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/forgot-password.png" width="120"/><br>
+      <b>Forgot Password Screen</b><br>
+      Request a password reset link if you’ve forgotten your password.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/home.png" width="120"/><br>
+      <b>Home Screen</b><br>
+      Displays real-time trailer locations and yard status within the logistics network.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/trailer-details.png" width="120"/><br>
+      <b>Trailer Details Card</b><br>
+      Provides detailed information about trailer status, location, and assignments.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/map.png" width="120"/><br>
+      <b>Interactive Map</b><br>
+      Displays real-time yard and trailer locations with custom markers for easy management.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/schedule.png" width="120"/><br>
+      <b>Schedule Screen</b><br>
+      Manage and automate trailer scheduling and dock assignments.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/analytics.png" width="120"/><br>
+      <b>Analytics Dashboard</b><br>
+      Provides insights into trailer movements, delay management, and operational efficiency.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/chatbot.png" width="120"/><br>
+      <b>Gemini Chatbot</b><br>
+      Interactive support for real-time updates and travel details.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/admin-dashboard.png" width="120"/><br>
+      <b>Admin Dashboard</b><br>
+      Admins can manage all operations, including verifying and overseeing trailer and yard activities.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/trailer-verification.png" width="120"/><br>
+      <b>Trailer Verification</b><br>
+      Admins ensure accuracy by verifying trailer details and scheduling before final confirmation.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/delay-notifications.png" width="120"/><br>
+      <b>Delay Notifications</b><br>
+      Real-time alerts for delays and critical updates to keep operations on track.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/yard-overview.png" width="120"/><br>
+      <b>Yard Overview</b><br>
+      Comprehensive visualization of yard status, trailer assignments, and operational efficiency.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://example.com/images/reporting.png" width="120"/><br>
+      <b>Reporting Screen</b><br>
+      Detailed reports on operational metrics, trailer performance, and logistics insights.
+    </td>
+  </tr>
+</table>
+
 
 ## Design and Development
 
