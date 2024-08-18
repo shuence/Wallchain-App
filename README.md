@@ -34,93 +34,90 @@ Introducing **WallChain**—an Enhanced Trailer Management System that combines 
    - **Description:** A GenAI-powered assistant delivers real-time insights and recommendations.
    - **Benefit:** Supports data-driven decision-making for route optimization and resource management.
   
+## Walkthrough 
+
 <table style="width: 100%;">
   <tr>
     <td align="center" width="25%">
-      <img src="https://postimg.cc/8sGppvkR" width="120"/><br>
+      <img src="https://i.postimg.cc/ry0K9GvP/Wallchain-Login.png" width="120"/><br>
       <b>Splash Screen</b><br>
       Displays the Wall Chain logo upon app launch.
     </td>
     <td align="center" width="25%">
-      <img src="https://example.com/images/onboarding.png" width="120"/><br>
+      <img src="https://i.postimg.cc/wjyHmH3y/Wallchain-Login-1.png" width="120"/><br>
       <b>Onboarding Screen</b><br>
       Allows users to create an account or log in.
     </td>
     <td align="center" width="25%">
-      <img src="https://example.com/images/signup.png" width="120"/><br>
-      <b>Signup Screen</b><br>
+      <img src="https://i.postimg.cc/PxZQpLn3/Wallchain-Login-2.png" width="120"/><br>
+      <b>Signup Screen for Driver </b><br>
       Create an account manually or using Google credentials.
     </td>
     <td align="center" width="25%">
-      <img src="https://example.com/images/signin.png" width="120"/><br>
-      <b>Signin Screen</b><br>
-      Log in via email or continue using Google credentials.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://example.com/images/forgot-password.png" width="120"/><br>
-      <b>Forgot Password Screen</b><br>
-      Request a password reset link if you’ve forgotten your password.
-    </td>
-    <td align="center" width="25%">
-      <img src="https://example.com/images/home.png" width="120"/><br>
+      <img src="https://i.postimg.cc/Nf5dkSXW/Homeeee.png" width="120"/><br>
       <b>Home Screen</b><br>
-      Displays real-time trailer locations and yard status within the logistics network.
-    </td>
-    <td align="center" width="25%">
-      <img src="https://example.com/images/trailer-details.png" width="120"/><br>
-      <b>Trailer Details Card</b><br>
-      Provides detailed information about trailer status, location, and assignments.
-    </td>
-    <td align="center" width="25%">
-      <img src="https://example.com/images/map.png" width="120"/><br>
-      <b>Interactive Map</b><br>
-      Displays real-time yard and trailer locations with custom markers for easy management.
+      Two buttons on the dashboard: one for Incoming and another for Outgoing.
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://example.com/images/schedule.png" width="120"/><br>
-      <b>Schedule Screen</b><br>
-      Manage and automate trailer scheduling and dock assignments.
+      <img src="https://i.postimg.cc/q7LcTxns/Wallchain-Login-5.png" width="120"/><br>
+      <b>QR Code for Entry</b><br>
+      When scanned, shows vehicle details like license number and parking slot.
     </td>
     <td align="center" width="25%">
-      <img src="https://example.com/images/analytics.png" width="120"/><br>
-      <b>Analytics Dashboard</b><br>
-      Provides insights into trailer movements, delay management, and operational efficiency.
+      <img src="https://i.postimg.cc/vTpfzqFs/Wallchain-Login-8.png" width="120"/><br>
+      <b>Details Pop Up Window</b><br>
+      Shows real-time data and assigned parking slot.
     </td>
     <td align="center" width="25%">
-      <img src="https://example.com/images/chatbot.png" width="120"/><br>
+      <img src="https://i.postimg.cc/2SdhQ70s/Wallchain-Login.jpg" width="120"/><br>
+      <b>Full Yard Visualization</b><br>
+      Shows details of assigned containers, loaded & available slots.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.postimg.cc/3RNGH53h/Wallchain-Login.png" width="120"/><br>
+      <b>Trailer Unloading</b><br>
+      Provides trailer status, location, and assignments.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://i.postimg.cc/yNbmxYQx/Map2.png" width="120"/><br>
       <b>Gemini Chatbot</b><br>
-      Interactive support for real-time updates and travel details.
+      Interactive support with real-time updates and travel details.
     </td>
     <td align="center" width="25%">
-      <img src="https://example.com/images/admin-dashboard.png" width="120"/><br>
-      <b>Admin Dashboard</b><br>
-      Admins can manage all operations, including verifying and overseeing trailer and yard activities.
+      <img src="https://i.postimg.cc/8PN616pw/Map3.png" width="120"/><br>
+      <b>Chatbot Instructions</b><br>
+      Details on truck stops and fuel stops after entering truck number.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.postimg.cc/SsmhXkn0/Wallchain-Login.png" width="120"/><br>
+      <b>Outgoing Trailer QR</b><br>
+      Tracks location, generated when a new consignment is assigned.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://i.postimg.cc/2Sy34Bg8/Mapsss.png" width="120"/><br>
+      <b>AI-Powered Map</b><br>
+      Real-time traffic updates and predictive analysis.
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://example.com/images/trailer-verification.png" width="120"/><br>
-      <b>Trailer Verification</b><br>
-      Admins ensure accuracy by verifying trailer details and scheduling before final confirmation.
+      <img src="https://i.postimg.cc/Vvy4QwQ2/Screenshot-2024-08-15-204353-1.png" width="120"/><br>
+      <b>AI Traffic & Truck Details</b><br>
+      Displays truck weight, items, and optimal route on the map.
     </td>
     <td align="center" width="25%">
-      <img src="https://example.com/images/delay-notifications.png" width="120"/><br>
-      <b>Delay Notifications</b><br>
-      Real-time alerts for delays and critical updates to keep operations on track.
+      <img src="https://i.postimg.cc/MT0tS46T/Screenshot-2024-08-15-204456-1.png" width="120"/><br>
+      <b>Driver Travel Report</b><br>
+      Shows completed consignments and travel stats.
     </td>
     <td align="center" width="25%">
-      <img src="https://example.com/images/yard-overview.png" width="120"/><br>
-      <b>Yard Overview</b><br>
-      Comprehensive visualization of yard status, trailer assignments, and operational efficiency.
-    </td>
-    <td align="center" width="25%">
-      <img src="https://example.com/images/reporting.png" width="120"/><br>
-      <b>Reporting Screen</b><br>
-      Detailed reports on operational metrics, trailer performance, and logistics insights.
+      <img src="https://i.postimg.cc/PxMc4N82/Profile.png" width="120"/><br>
+      <b>Driver Profile</b><br>
+      Shows name, license, safety score, and travel stats.
     </td>
   </tr>
 </table>
