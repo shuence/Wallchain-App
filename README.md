@@ -12,6 +12,9 @@ Walmart’s vast distribution network faces a major challenge: the lack of real-
 
 Introducing **WallChain**—an Enhanced Trailer Management System that combines GPS tracking, predictive analytics, and blockchain technology to create a seamless and efficient supply chain experience. Here's how we transform logistics and trailer management:
 
+# WallChain PPT:
+[![Access Presentation](https://img.shields.io/badge/Access%20Presentation-Click%20Here-blue?style=for-the-badge)](https://docs.google.com/presentation/d/1HyX9fSZ8QdVodPD5d2C5f2hwLsIUenmpRgaorJHJ6Y0/edit?usp=sharing)
+
 ## Key Features
 
 1. **Real-Time Trailer Tracking 🚀**
