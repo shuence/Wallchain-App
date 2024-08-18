@@ -131,12 +131,28 @@ Introducing **WallChain**—an Enhanced Trailer Management System that combines 
 
 Before embarking on the development of WallChain, we extensively studied the Forkites website and its innovative features. Forkites’ approach to logistics and supply chain management provided valuable insights that influenced our design and functionality decisions. We adopted best practices and integrated advanced technologies to build a solution that not only meets but exceeds industry standards.
 
+## Last Feedback Collected
+Overview
+We recently collected feedback from over 20 Walmart supply chain members and other professionals in the supply chain industry. Their insights have been instrumental in refining our application to better align with the needs of real-world supply chain operations.
+
+![Slide 16_9 - 1](https://github.com/user-attachments/assets/00d678fc-217e-4321-a6e0-2f976405a2bc)
+
 ## 🌟 Impact
 Wall Chain revolutionizes yard management by addressing key challenges faced in logistics operations. By integrating real-time GPS tracking, AI-powered analytics, and automated scheduling, our app significantly enhances operational efficiency, reduces manual errors, and cuts down on operational costs. The solution ensures timely deliveries, better visibility into trailer statuses, and streamlined communication between drivers and admins.
 
 ## 📈 Scalability
 Wall Chain is designed to grow with your business. Built using Flutter for cross-platform support and Firebase for real-time data synchronization, the app can scale effortlessly to accommodate increased volumes of shipments and users. The AI-powered traffic analysis and predictive analytics features are engineered to handle large datasets and complex routing scenarios, ensuring performance remains optimal as your operations expand.
+  
+### Technical Architecture
 
+- Flow Charts
+
+  ![Screenshot 2024-08-14 194010](https://github.com/user-attachments/assets/c7fcffbd-ff07-4885-8eba-3603df4a3bcb)
+
+- Tech Stack
+  
+![TECH STACK](https://github.com/user-attachments/assets/e647ee96-be45-4542-b5ba-e2ee0162ff12)
+  
 ## Business Relevance 🤝
 In today’s fast-paced logistics environment, efficient yard management is crucial for maintaining a competitive edge. Wall Chain addresses the pressing needs of businesses like Walmart by providing:
 - **Real-Time Trailer Tracking:** Immediate updates on trailer statuses and locations.
@@ -149,22 +165,6 @@ These features collectively enhance operational efficiency, improve decision-mak
 The future of Wall Chain is bright with opportunities for further innovation:
 - **Enhanced AI Capabilities:** Expanding AI features to include more sophisticated predictive models and automation.
 - **Integration with IoT Devices:** Incorporating IoT sensors for real-time monitoring of trailer conditions and inventory.
-  
-### Technical Architecture
-
-- Flow Charts
-
-  ![Screenshot 2024-08-14 194010](https://github.com/user-attachments/assets/c7fcffbd-ff07-4885-8eba-3603df4a3bcb)
-
-- Activity Diagram
-The activity diagram shows the flow of actions within the application, focusing on the processes and decision points that occur during trailer management.
-
-![Screenshot 2024-08-14 195032](https://github.com/user-attachments/assets/95b482fd-922c-4b86-bc80-35cec5856320)
-
-- Sequence Diagram
-The sequence diagram illustrates the flow of functions within the smart contracts. This diagram demonstrates how different components interact during trailer management operations, focusing on the order of operations and communication between entities.
-
-![Screenshot 2024-08-14 195044](https://github.com/user-attachments/assets/5ff7c62f-2449-470c-ab2e-48f835a08d59)
 
 # Hi, We are InnovisionSquad
 ## 🤝 Contributors
